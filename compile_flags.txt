@@ -1,0 +1,4 @@
+-Iinclude
+-MMD
+-MP
+-Wall
